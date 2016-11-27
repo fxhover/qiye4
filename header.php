@@ -32,8 +32,8 @@
 	<meta content="网站描述" name="description" />
         
                 
-			<link rel="shortcut icon" href="http://static.websiteonline.cn/website/template/default/images/favicon.ico" type="image/x-icon" />
-	<link rel="Bookmark" href="http://static.websiteonline.cn/website/template/default/images/favicon.ico" />
+			<link rel="shortcut icon" href="" type="image/x-icon" />
+	<link rel="Bookmark" href="" />
 	<link href="/css/default.css" rel="stylesheet" type="text/css" />
 <!--语言特殊的css-->
 <style>
