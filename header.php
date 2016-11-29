@@ -9,6 +9,7 @@
 		'about' => 'nav_layerF127556143670E463770FFD5DC0A9B91',
 	);
 
+	/*
 	$GLOBALS['config'] = array(
 		'name' => '北京艺美和电子科技有限公司',
 		'company' => '北京艺美和电子科技有限公司',
@@ -16,6 +17,17 @@
 		'tel' => '010-50942015',
 		'domain' => 'http://www.zhuang360.com.cn',
 		'email' => 'postmaster@zhuang360.com.cn',
+		'source_domain' => 'http://leather-1.view.sitestar.cn/',
+		'menu_class' => $menu_class
+	);
+	*/
+	$GLOBALS['config'] = array(
+		'name' => '北京捷图华新科技有限公司',
+		'company' => '北京捷图华新科技有限公司',
+		'address' => '北京市海淀区北洼路4号美林公寓3号楼8层H室',
+		'tel' => '010-57144145',
+		'domain' => 'http://www.zhuang360.cn',
+		'email' => 'postmaster@zhuang360.cn',
 		'source_domain' => 'http://leather-1.view.sitestar.cn/',
 		'menu_class' => $menu_class
 	);
@@ -28,8 +40,8 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
 	<meta name="viewport" content="width=980" />	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title><?php echo $config['name'];?></title>
-	<meta content="网站关键字" name="keywords" />
-	<meta content="网站描述" name="description" />
+	<meta content="<?php echo $config['name'];?>" name="keywords" />
+	<meta content="<?php echo $config['name'];?>" name="description" />
         
                 
 			<link rel="shortcut icon" href="" type="image/x-icon" />
