@@ -2,7 +2,7 @@
 		<div class="full_width" margintopheight=0 style="position:absolute;height:70px;background-repeat:repeat-x;background-color:#f6f5f1;"></div>
 		<div id="footer_content" class="full_content" style="width:980px; position:absolute;left:0;top:0;margin-left: 0px;background-repeat:repeat-x;height:70px;text-align:center;font-size:12px;color:#999;padding-top:10px;line-height: 25px;">
 			<p>
-				<span class="sf_font">2013-2016 <?php echo $config['company'];?> All Rights Reserved</span>
+				<span class="sf_font">2002-2016 <?php echo $config['company'];?> All Rights Reserved</span>
 			</p>
 			<p>
 				<span>地址：<?php echo $config['address']; ?>  邮箱：<?php echo $config['email']; ?></span>
